@@ -2,6 +2,9 @@
 
 Static clone of rameshsoft.com - India's No.1 JAVA Automation Training Institute
 
+## Screenshot
+![Cloned website screenshot](screenshot.png)
+
 ## Overview
 This is a 100% static clone of [rameshsoft.com](https://rameshsoft.com/), created for offline viewing and archival purposes.
 
